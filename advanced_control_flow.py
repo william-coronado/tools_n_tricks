@@ -1,7 +1,7 @@
 """Exploring alternative methods for control flow in Python for building a calculator."""
 import operator
 
-option = input("""Enter option to test control flow technique...
+print("""This program tests different control flow techniques...
     1. Using the operator Module
     2. Using eval() for Dynamic Evaluation
     3. Using match and case
@@ -9,8 +9,8 @@ option = input("""Enter option to test control flow technique...
     5. Lambda Functions
     6. Object-Oriented Approach
     7. Function Mapping
-    
     """)
+option = input("Enter option:")
 
 match option:
     case "1":
@@ -25,6 +25,7 @@ match option:
         }
 
         print(action['/'](37, 5))  # Output: 7.4
+        
     case "2":
         print("Using eval() for Dynamic Evaluation")
         # 2. Using eval() for Dynamic Evaluation
@@ -134,17 +135,3 @@ match option:
         
     case _:
         print("Invalid option")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
