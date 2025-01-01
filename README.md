@@ -33,6 +33,9 @@ This script demonstrates how to use the `psutil` library to monitor system resou
 ### `icecream_debugging.py`
 This script demonstrates various debugging functionalities using the `icecream` library. 
 
+### `advanced_control_flow.py`
+Exploring alternative methods for control flow in Python for building a calculator.
+
 ## Directories
 ### `conf/`
 This directory contains configuration files for the Hydra framework.
