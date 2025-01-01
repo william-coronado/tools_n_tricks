@@ -22,8 +22,13 @@ This script uses the `rich` library to create a fancy table and a progress bar. 
 ### `streamlit_web_app.py`
 This script creates a simple web application using the `streamlit` library. The app displays Uber pickup data in NYC and includes options to load and display raw data.
 
+Run using: *streamlit run streamlit_web_app.py*
+
 ### `loguru_logging.py`
 This script demonstrates various logging functionalities using the `loguru` library. 
+
+### `psutil_sys_monitoring.py`
+This script demonstrates how to use the `psutil` library to monitor system resources and manage processes.
 
 ## Directories
 ### `conf/`
