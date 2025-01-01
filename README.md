@@ -1,6 +1,6 @@
 # Tools and Tricks
 
-This project contains various tools and scripts for different purposes, including data generation, web applications, data validation, and time handling. Below is a brief description of each file and its functionality:
+This project contains various tools and scripts for different purposes I have collected from a number of sites, including data generation, web applications, data validation, and time handling. Below is a brief description of each file and its functionality:
 
 ## Scripts
 
@@ -21,6 +21,9 @@ This script uses the `rich` library to create a fancy table and a progress bar. 
 
 ### `streamlit_web_app.py`
 This script creates a simple web application using the `streamlit` library. The app displays Uber pickup data in NYC and includes options to load and display raw data.
+
+### `loguru_logging.py`
+This script demonstrates various logging functionalities using the `loguru` library. 
 
 ## Directories
 ### `conf/`
