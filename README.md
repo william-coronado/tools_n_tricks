@@ -30,6 +30,9 @@ This script demonstrates various logging functionalities using the `loguru` libr
 ### `psutil_sys_monitoring.py`
 This script demonstrates how to use the `psutil` library to monitor system resources and manage processes.
 
+### `icecream_debugging.py`
+This script demonstrates various debugging functionalities using the `icecream` library. 
+
 ## Directories
 ### `conf/`
 This directory contains configuration files for the Hydra framework.
